@@ -1,9 +1,4 @@
 # Hello
 My name is Nathan Kassab, I mostly code java
 
-```mermaid
-graph LR
-A[Me] --> B[Program]
-B --> C[Code no work]
-C --> D[Cry]
-```
+[![](https://mermaid.ink/img/eyJjb2RlIjoiXG5ncmFwaCBMUlxuQVtNZV0gLS0-IEJbUHJvZ3JhbV1cbkIgLS0-IENbQ29kZSBubyB3b3JrXVxuQyAtLT4gRFtDcnldXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiXG5ncmFwaCBMUlxuQVtNZV0gLS0-IEJbUHJvZ3JhbV1cbkIgLS0-IENbQ29kZSBubyB3b3JrXVxuQyAtLT4gRFtDcnldXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
