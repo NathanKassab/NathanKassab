@@ -1,4 +1,5 @@
 # Hello
 My name is Nathan Kassab, I mostly code java
 
-[![](https://mermaid.ink/img/eyJjb2RlIjoiXG5ncmFwaCBMUlxuQVtNZV0gLS0-IEJbUHJvZ3JhbV1cbkIgLS0-IENbQ29kZSBubyB3b3JrXVxuQyAtLT4gRFtDcnldXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiXG5ncmFwaCBMUlxuQVtNZV0gLS0-IEJbUHJvZ3JhbV1cbkIgLS0-IENbQ29kZSBubyB3b3JrXVxuQyAtLT4gRFtDcnldXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKassab)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanKassab&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
