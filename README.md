@@ -1,5 +1,5 @@
 <h1 align="center">Nathan Kassab</h1>
-<h4 align="center">Self-taught Java developer studying at Hopkinton High School</h4>
+<h4 align="center">Self-taught Java developer studying at UMass Dartmouth</h4>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,hibernate,js,py,cpp&theme=light"/>
